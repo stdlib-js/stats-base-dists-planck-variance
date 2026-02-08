@@ -64,7 +64,7 @@ where `λ` is the shape parameter.
 ## Usage
 
 ```javascript
-import variance from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-planck-variance@esm/index.mjs';
+import variance from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-planck-variance@v0.1.1-esm/index.mjs';
 ```
 
 #### variance( lambda )
@@ -117,7 +117,7 @@ v = variance( -1.0 );
 
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-uniform@esm/index.mjs';
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@esm/index.mjs';
-import variance from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-planck-variance@esm/index.mjs';
+import variance from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-planck-variance@v0.1.1-esm/index.mjs';
 
 var opts = {
     'dtype': 'float64'
