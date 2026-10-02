@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-09-15)
+## Unreleased (2026-10-02)
 
 <section class="commits">
 
@@ -12,6 +12,8 @@
 
 <details>
 
+-   [`e9f509b`](https://github.com/stdlib-js/stdlib/commit/e9f509be395472993c0b01f4784e3aa53ba05984) - **test:** migrate `stats/base/dists/planck/variance` to ULP-based assertions [(#15794)](https://github.com/stdlib-js/stdlib/pull/15794) _(by Athan Reines)_
+-   [`d3eaad3`](https://github.com/stdlib-js/stdlib/commit/d3eaad35f633c731ce8112190d74bb2a7577e1e8) - **chore:** clean-up [(#15039)](https://github.com/stdlib-js/stdlib/pull/15039) _(by Philipp Burckhardt, Athan Reines)_
 -   [`8975f00`](https://github.com/stdlib-js/stdlib/commit/8975f00a25cb5ce66c932529659354ae5d8454dd) - **docs:** update descriptions [(#13219)](https://github.com/stdlib-js/stdlib/pull/13219) _(by Philipp Burckhardt)_
 -   [`9a51841`](https://github.com/stdlib-js/stdlib/commit/9a51841213eb13adbd6b8fe36d96c00aac9fbb17) - **bench:** refactor to use string interpolation in `stats/base` [(#11393)](https://github.com/stdlib-js/stdlib/pull/11393) _(by Karan Anand)_
 
@@ -25,8 +27,9 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Karan Anand
 -   Philipp Burckhardt
 
